@@ -10,3 +10,7 @@ For informational and educational purposes only.
 
 Ala-Too International University
 t.me/@AIUofficialbot
+
+
+application inside echo
+configurations in echo2
