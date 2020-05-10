@@ -16,3 +16,5 @@ application inside echo
 
 
 configurations in echo2
+
+bot.py and configuration.py are old telegram bot version
